@@ -1,5 +1,9 @@
-Terminal: iTerm2
+##
+Terminal
+iTerm2
+
 Color scheme: Solarized Dark
+
 Font: Monoco 13pt
 
 ## Shell
