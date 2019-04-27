@@ -1,5 +1,4 @@
-##
-Terminal
+## Terminal
 iTerm2
 
 Color scheme: Solarized Dark
